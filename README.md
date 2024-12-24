@@ -4,6 +4,6 @@ The Arithmetic Arranger is a Python function that formats basic arithmetic probl
 - Format up to five arithmetic problems vertically.
 - Supports addition (+) and subtraction (-) operators.
 - Validates input for correctness:
--- Ensures operators are valid (+ or -).
--- Ensures operands are numerical and contain no more than four digits.
+ - Ensures operators are valid (+ or -).
+ - Ensures operands are numerical and contain no more than four digits.
 - Displays answer if enabled
